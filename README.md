@@ -1,5 +1,6 @@
 ## Random Quote Generator (React)
-This is a random quote generator created with ReactJs as a freecodecamp Project.
+This is a random quote generator created with ReactJs as a freecodecamp Project.<br>
+https://anthonyjwwong.github.io/react-random-quote.
 
 ## Tech/framework used
 <b>Built with</b>
@@ -19,7 +20,7 @@ If you want to check it out
 3. Load it up in your text editor or IDE.
 4. run <b>npm install</b> to install all the dependencies needed for this project.
 5. run <b>npm run start</b> to get the development server up.
- 
+
 
 ## API Reference
 Forismatic API was used here to get the quotes. 
