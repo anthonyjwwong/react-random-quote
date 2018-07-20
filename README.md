@@ -15,7 +15,7 @@ Everything is preinstalled into the boilerplate, such as babel, webpack and etc,
 ## Installation
 If you want to check it out, download the folder from the master branch, and load it up in your text editor or IDE.<br>
 run 
-<br><b>npm run start<b> 
+<br><b>npm run start</b> 
  <br> in your terminal to get the development server going.
 
 
