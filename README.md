@@ -13,11 +13,13 @@ The React Boilerplate was created with create-react-app(https://github.com/faceb
 Everything is preinstalled into the boilerplate, such as babel, webpack and etc, so you don't really have to worry about installing them.
 
 ## Installation
-If you want to check it out, download the folder from the master branch, and load it up in your text editor or IDE.<br>
-run 
-<br><b>npm run start</b> 
- <br> in your terminal to get the development server going.
-
+If you want to check it out
+1. Switch to the master branch 
+2. Download the folders. 
+3. Load it up in your text editor or IDE.
+4. run <b>npm install</b> to install all the dependencies needed for this project.
+5. run <b>npm run start</b> to get the development server up.
+ 
 
 ## API Reference
 Forismatic API was used here to get the quotes. 
