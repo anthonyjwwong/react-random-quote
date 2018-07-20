@@ -1,0 +1,54 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    color: #0ab;
+    padding: 4% 2%;
+    margin-top: 12%;
+    background-color: white;
+}
+
+.button_container {
+    width: 100%;
+    text-align: left;
+    margin: 100px auto 10px;
+    
+}
+
+button {
+    width: 100px;
+    font-size: 1.5rem;
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    text-align: center;
+    padding: 10px 10px 10px;
+    background: #0ab;
+    outline: none;
+    height: 50px;
+    border: 1px solid #0ab;
+    box-shadow: 0 5px #99dde3;
+    margin-right: 10px;
+}
+
+button:hover {
+    background: #19b2c1;
+  }
+  
+button:active {
+     box-shadow: 0 2px #0ab;
+      transform: translateY(4px);
+  }
+  
+.quotes {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+
+}
+
+.author {
+    text-align: left;
+
+}
+
