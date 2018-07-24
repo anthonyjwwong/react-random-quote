@@ -21,6 +21,8 @@ If you want to check it out
 4. run <b>npm install</b> to install all the dependencies needed for this project.
 5. run <b>npm run start</b> to get the development server up.
 
+## Current Issues
+1. The get request is returning information really slowly. 
 
 ## API Reference
 Forismatic API was used here to get the quotes. 
