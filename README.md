@@ -1,6 +1,8 @@
+
 ## Random Quote Generator (React)
 This is a random quote generator created with ReactJs as a freecodecamp Project.<br>
 https://anthonyjwwong.github.io/react-random-quote.
+Might Refactor everything into functional based component
 
 ## Tech/framework used
 <b>Built with</b>
