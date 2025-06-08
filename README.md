@@ -34,4 +34,4 @@ Forismatic API was used here to get the quotes.
 - Create-react-app (for the react boilerplate)
 - https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3 (for this readME template)
 
-
+// The app currently doesn't work as the API isn't working anymore
